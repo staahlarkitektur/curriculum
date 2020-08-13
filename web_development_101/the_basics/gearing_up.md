@@ -107,7 +107,7 @@ What to do during your break:
 Read [this article](https://simpleprogrammer.com/taking-breaks-will-boost-productivity/) for more information on breaks & productivity.
 
 #### Digital Distractions
-Digital distractions are email and Facebook notifications and time-wasting websites, such as social media. These distractions break your focus and make procrastination tempting. Therefore, they should be avoided during study time.
+Digital distractions are emails, notifications and time-wasting websites, such as social media. These distractions break your focus and make procrastination tempting. Therefore, they should be avoided during study time.
 
 **Solution:** Turn off notifications and add a blocker to your internet to limit your time on distracting sites.
 
